@@ -5,10 +5,12 @@ import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Teste } from '@/components/Teste';
-import { Secundario } from '@/components/Secundario';
-import { Terciario } from '@/components/Terciario';
+// import { Secundario } from '@/components/Secundario';
+// import { Terciario } from '@/components/Terciario';
 import { View } from 'react-native-reanimated/lib/typescript/Animated';
 import { Form } from '@/components/Form/Form';
+import Animated from 'react-native-reanimated';
+
 
 export default function HomeScreen() {
   return (
